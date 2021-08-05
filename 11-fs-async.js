@@ -32,3 +32,6 @@ readFile("./content/first.txt", "utf8", (err, result) => {
     );
   });
 });
+
+console.log("done with this task");
+console.log("starting the next one");
